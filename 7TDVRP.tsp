@@ -1,4 +1,4 @@
-NAME: 2300
+NAME: 7TDVRP
 COMMENT: 7 locations in Saratov (one of them is a store where goods are delivered from)
 DIMENSION: 7
 EDGE_WEIGHT_TYPE: EXPLICIT
